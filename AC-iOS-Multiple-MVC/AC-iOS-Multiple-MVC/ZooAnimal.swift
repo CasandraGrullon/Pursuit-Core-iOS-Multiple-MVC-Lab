@@ -85,7 +85,7 @@ The Emperor Penguin stands 115 centimetres (45 inches) in height and weighs 35 �
 
 
 """),
-        ZooAnimal(name: "Flamingo", imageNumber: 12, origin: "South America", classification: "Bird", info: """
+        ZooAnimal(name: "Flamingo", imageNumber: 12, origin: "Africa, South America", classification: "Bird", info: """
 Galapagos Flamingos or Caribbean Flamingos (Phoenicopterus Ruber) are gregarious, wading birds that belong to a family of large, brilliantly coloured aquatic birds whose habitats are alkaline or saline lakes. Long legs and a long, curved neck are characteristic of all flamingo species. All flamingos are found in tropical and subtropical areas. Galapagos Flamingos reside in the salt-water lagoons hidden in the lava fields behind the coast of the Galapagos Islands.
 """),
         ZooAnimal(name: "Panda Bear", imageNumber: 13, origin: "Asia", classification: "Mammal", info: """
@@ -127,6 +127,7 @@ Zebras are equids – members of the horse family (Equidae) and are medium sized
 Zebras were the second species to diverge from the earliest proto-horses, after the asses, around 4 million years ago. The Grevy’s zebra is believed to have been the first zebra species to emerge.
 """)
     ]
+    
 }
 
 
